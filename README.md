@@ -13,4 +13,3 @@ Logan -
 Link to the Project Charter & Initial Project Management Plan:
 
 Setup instructions:
-# Augmented-Reality-Platypus-Project
