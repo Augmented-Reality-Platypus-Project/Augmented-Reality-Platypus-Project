@@ -1,5 +1,3 @@
-# Augmented-Reality-Platypus-Project
-
 Project title & description:\
 Wonga Wetlands Augmented Reality Platypus – AI opportunity
 
