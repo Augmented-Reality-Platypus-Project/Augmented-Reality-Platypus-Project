@@ -5,7 +5,7 @@ Team members & roles:\
 Jacob - \
 Ryan - \
 Riley - \
-Kieran - \
+Kieran - Leader\
 Logan - 
 
 Link to the Project Charter & Initial Project Management Plan:
