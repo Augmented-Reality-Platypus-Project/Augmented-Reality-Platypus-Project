@@ -1,5 +1,5 @@
 Project title & description:\
-Wonga Wetlands Augmented Reality Platypus – AI opportunity
+Wonga Wetlands Augmented Reality Platypus – AI opportunity \
 This projects goal is to create an augemented reality experience to educate people visiting or wanting to visit the Wonga Wetlands about platypuses and the environment around the Wetlands.
 
 Team members & roles:\
