@@ -1,0 +1,7 @@
+All contributions must be documented in GitHub Issues or Project Boards before development begins.
+
+New features should include clear descriptions, expected behavior, and testing criteria.
+
+Contributors must update documentation when introducing significant changes.
+
+If modifying existing code, ensure compatibility with the current project structure.
