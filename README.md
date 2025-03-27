@@ -7,7 +7,7 @@ Jacob - Member\
 Ryan - Member\
 Riley - Member\
 Kieran - Leader\
-Logan - Deputy
+Logan - Team Deputy
 
 Link to the Project Charter & Initial Project Management Plan: \
 https://docs.google.com/document/d/1HipjtZMw2mqM_UU4zk0Co5qBJfB_Prv5NdXYsWYXrxQ/edit?tab=t.2fuw5xhsepfd
