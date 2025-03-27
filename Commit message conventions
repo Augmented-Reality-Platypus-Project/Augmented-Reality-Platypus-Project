@@ -1,4 +1,5 @@
 To maintain clarity and consistency in version control, all team members must follow a structured commit message format:
+Format: [Category] Brief summary of the change
 
 Feature: For adding new features
 
