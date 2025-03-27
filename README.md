@@ -10,6 +10,6 @@ Kieran - Leader\
 Logan - 
 
 Link to the Project Charter & Initial Project Management Plan: \
-Project Charter: https://docs.google.com/document/d/1HipjtZMw2mqM_UU4zk0Co5qBJfB_Prv5NdXYsWYXrxQ/edit?tab=t.2fuw5xhsepfd
+https://docs.google.com/document/d/1HipjtZMw2mqM_UU4zk0Co5qBJfB_Prv5NdXYsWYXrxQ/edit?tab=t.2fuw5xhsepfd
 
 Setup instructions:
