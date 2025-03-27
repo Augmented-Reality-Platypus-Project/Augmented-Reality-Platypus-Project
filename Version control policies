@@ -1,1 +1,11 @@
+Version Control Policies
 
+The main branch will always contain the stable production-ready code.
+
+The development branch will serve as the integration branch for testing new features.
+
+All new features and bug fixes must be developed in feature branches and merged via pull requests.
+
+Each pull request must be reviewed by at least one team member before merging to main.
+
+Merge conflicts must be resolved before pushing changes to the repository.
