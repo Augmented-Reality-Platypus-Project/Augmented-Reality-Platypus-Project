@@ -1,1 +1,12 @@
+To maintain clarity and consistency in version control, all team members must follow a structured commit message format:
+
+Feature: For adding new features
+
+Update: For documentation updates/ code optimisation
+
+Fix: For fixing bugs/errors
+
+Format: For reformatting code/documents with no functionality changes
+
+Test: For temporary testing of updates/ features
 
